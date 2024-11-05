@@ -150,6 +150,7 @@ extern void AddSC_instance_maraudon();                      // maraudon
 extern void AddSC_boss_noxxion();
 extern void AddSC_boss_onyxia();                            // onyxias_lair
 extern void AddSC_instance_onyxias_lair();
+extern void AddSC_npc_earthborer();                         // ragefire_chasm
 extern void AddSC_instance_razorfen_downs();                // razorfen_downs
 extern void AddSC_razorfen_downs();
 extern void AddSC_instance_razorfen_kraul();                // razorfen_kraul
@@ -355,6 +356,7 @@ void AddScripts()
     AddSC_boss_noxxion();
     AddSC_boss_onyxia();                                    // onyxias_lair
     AddSC_instance_onyxias_lair();
+    AddSC_npc_earthborer();                                 // ragefire_chasm
     AddSC_instance_razorfen_downs();                        // razorfen_downs
     AddSC_razorfen_downs();
     AddSC_instance_razorfen_kraul();                        // razorfen_kraul
